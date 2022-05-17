@@ -1,4 +1,4 @@
-## Paraméterek:
+## Paraméterek
 
 |paraméter|kötelező|leírás|
 |---------|---------|---------|
@@ -8,7 +8,7 @@
 | quality|-|A kitöltés min. ideje mp-ben. _'Lastpage' paraméter nélkül nincs értelme_. A kitöltés ideje a startdate és a datestamp oszlopok különbségéből számolható||
 | questions|-|Tömb, ha nincs megadva az összes kérdést visszakapjuk|
 
-### Paraméter példa:
+## Paraméter példa
 
 ```
 ?survey_id=210099
@@ -20,11 +20,11 @@
 ```
 
 
-### JSON válasz példa
+## JSON válasz példa
 > __note:__ 
 `select COUNT(DISTINCT startlanguage) as number_of_languages FROM survey_221401` => meg lehet állapítani, hogy hány féle nyelven megy a kérdőív
 
-#### Ha egy nyelvű a kérdőív
+### Ha egy nyelvű a kérdőív
 
 ```json
 [
@@ -66,7 +66,7 @@
 ]
 ```
 
-#### ha több nyelvű a kérdőív
+### ha több nyelvű a kérdőív
 
 ```json
 [
