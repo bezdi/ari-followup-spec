@@ -66,7 +66,7 @@
 ]
 ```
 
-### ha több nyelvű a kérdőív
+### Ha több nyelvű a kérdőív
 
 ```json
 [
