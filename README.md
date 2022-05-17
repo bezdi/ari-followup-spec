@@ -38,18 +38,18 @@
 				"title": "Q01",
 				"answers": [
 					{
-						code: 1,
-						label: "Male"
-						total: 1333,
-						total_finished: 1333,
-						total_quality: 1087
+						"code": 1,
+						"label": "Male"
+						"total": 1333,
+						"total_finished": 1333,
+						"total_quality": 1087
 					},
 					{
-						code: 2,
-						label: "Female"
-						total: 1308,
-						total_finished: 1308,
-						total_quality: 1093
+						"code": 2,
+						"label": "Female"
+						"total": 1308,
+						"total_finished": 1308,
+						"total_quality": 1093
 					}
 				]
 			},
@@ -99,18 +99,18 @@
 				"title": "Q01",
 				"answers": [
 					{
-						code: 1,
-						label: "Male"
-						total: 1333,
-						total_finished: 1333,
-						total_quality: 1087
+						"code": 1,
+						"label": "Male"
+						"total": 1333,
+						"total_finished": 1333,
+						"total_quality": 1087
 					},
 					{
-						code: 2,
-						label: "Female"
-						total: 1308,
-						total_finished: 1308,
-						total_quality: 1093
+						"code": 2,
+						"label": "Female"
+						"total": 1308,
+						"total_finished": 1308,
+						"total_quality": 1093
 					}
 				]
 			},
